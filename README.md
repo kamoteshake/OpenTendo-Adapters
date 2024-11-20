@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/KiCad-v8-2547ca)
+
 # OpenTendo-Adapters
 Some components of OpenTendo are already obsolete or NRND (Not Recommended for New Design). OpenTendo-Adapters is trying to solve this issue by using a modern equivalent of the OpenTendo components with different footprints and adapting it OpenTendo.
 
